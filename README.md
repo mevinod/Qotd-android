@@ -1,6 +1,6 @@
 # Qotd-android
 
-##Qote Of the Day
+## Qote Of the Day
 
 This is a simple android app to consume rest get request and show the response.
 
